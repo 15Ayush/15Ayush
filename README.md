@@ -5,7 +5,7 @@
 </div>
 
 ## I am a programmer . <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=90 height=90> 
-## <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width=90 height=90>  I am a Data Science avid .
+## I am a Data Science avid . <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width=90 height=90> 
 ## I am a Core team member in DSC . <img src="https://media.giphy.com/media/eIahGoLu190H4EASVU/giphy.gif" width=90 height=90> 
 
 -  I know Python and I love to code in Python . I am proficient in Flask-RESTful framework. I also have a keen interest in ML and AI . <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=50 height=50><br>
