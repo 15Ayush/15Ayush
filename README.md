@@ -8,9 +8,9 @@
 ## I am a Data Science avid . <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width=90 height=90> 
 ## I am a Core team member in DSC . <img src="https://media.giphy.com/media/eIahGoLu190H4EASVU/giphy.gif" width=90 height=90> 
 
--  I love to code in Python . I am proficient in Flask-RESTful framework and also have a keen interest in ML and AI. <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=50 height=50><br>
+- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I love to code in Java . 
 
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I also know Java and like coding in it . 
+- I also code in Python . I have experience in Flask-RESTful framework and also have a keen interest towards ML and AI. <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=50 height=50><br>
 
 -  I like TensorFlow too !! <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width=50 height=50>  <br>
 
