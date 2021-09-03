@@ -76,6 +76,9 @@
   <a href="https://www.hackerrank.com/ayushrai15">
     <img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
    </a>
+  <a href="https://auth.geeksforgeeks.org/user/imposter22/practice/">
+    <img align="left" alt="GFG" width="40px" src="![image](https://user-images.githubusercontent.com/70145826/131970745-8b6ac6e9-23ab-4920-9748-82b21f7e2f16.png)" />
+   </a>
   
 <br>
 
