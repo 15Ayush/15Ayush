@@ -77,17 +77,17 @@
     <img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
    </a>
   <a href="https://auth.geeksforgeeks.org/user/imposter22/practice/">
-    <img align="left" alt="GFG" width="40px" src="![image](https://user-images.githubusercontent.com/70145826/131970745-8b6ac6e9-23ab-4920-9748-82b21f7e2f16.png)" />
+    <img align="left" alt="GFG" width="40px" src="https://user-images.githubusercontent.com/70145826/131970745-8b6ac6e9-23ab-4920-9748-82b21f7e2f16.png" />
    </a>
   
 <br>
 
 -----------------------------------------------------
 
-- 🔭 I’m currently working on ... :  MongoDB
-- 🌱 I’m currently learning ... :  Docker ; Kubernetes
+- 🔭 I’m currently working on ... :  Algorithms
+- 🌱 I’m currently learning ... :  Dynamic Programming
 - 👯 I’m looking to collaborate on ... :  OpenCV
-- 💬 Ask me about ... :  ML
+- 💬 Ask me about ... :  Machine Learning
 - 😄 Pronouns: ... :  He/Him
 - ⚡ Fun fact: ... :  " Software undergoes beta testing shortly before it's released, whereas beta in Latin means //'still doesn't work'// "
 
