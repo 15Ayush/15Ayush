@@ -6,7 +6,6 @@
 
 ## I am a programmer . <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=90 height=90> 
 ## I am a Data Science avid . <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width=90 height=90> 
-## I am a Core team member in DSC . <img src="https://media.giphy.com/media/eIahGoLu190H4EASVU/giphy.gif" width=90 height=90> 
 
 - <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I love to code in Java . 
 
@@ -85,9 +84,9 @@
 -----------------------------------------------------
 
 - 🔭 I’m currently working on ... :  Algorithms
-- 🌱 I’m currently learning ... :  Dynamic Programming
+- 🌱 I’m currently learning ... :  Trees & Graphs
 - 👯 I’m looking to collaborate on ... :  OpenCV
-- 💬 Ask me about ... :  Machine Learning
+- 💬 Ask me about ... :  Machine Learning / Deep Learning
 - 😄 Pronouns: ... :  He/Him
 - ⚡ Fun fact: ... :  " Software undergoes beta testing shortly before it's released, whereas beta in Latin means //'still doesn't work'// "
 
