@@ -11,7 +11,7 @@
 
 - I also code in Python . I have experience in Flask-RESTful framework and also have a keen interest towards ML and AI. <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=50 height=50><br>
 
--  I like TensorFlow too !! <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width=50 height=50>  <br>
+-  I like working with TensorFlow too !! <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width=50 height=50>  <br>
 
 - <img src="https://media.giphy.com/media/lKvZmLmHNaI80/giphy.gif" width=50 height=50>  I have built some projects and planning to complete 2 more minor projects by the end of the month.<br>
 
