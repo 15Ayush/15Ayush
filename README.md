@@ -34,29 +34,7 @@
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
         <img height="100px" src="https://www.probytes.net/wp-content/uploads/2019/07/java-logo-vector-768x768.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Flask</strong></span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/876/1*0G5zu7CnXdMT9pGbYUTQLQ.png">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="35%" align="center">
-        <span><strong>R</strong></span><br><br><br>
-        <img height="84px" src="https://cityu-bioinformatics.netlify.app/img/headers/R5r.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Google Colab</strong></span><br><br><br>
-        <img height="64px" src="https://miro.medium.com/max/496/0*cbr_9kvPaWDbocSm.jpeg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://media4.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
-      </td>
+      </td> 
     </tr>
 
   </tbody>
@@ -67,32 +45,28 @@
 <br>
 
   <a href="https://www.linkedin.com/in/ayush-rai-778302171/">
-    <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="centre" alt="Linkedin" width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="work.15Ayush@rediffmail.com">
-    <img align="left" alt="Rediff" width="26px" src="https://play-lh.googleusercontent.com/hGSAM4FBuxjt7J8UyAc6hhukWSH2RR9_OPZ9Qf5Ui09RL9O_n3q217WEYzqqYpdnQYEr" />
+    <img align="centre" alt="Rediff" width="40px" src="https://play-lh.googleusercontent.com/hGSAM4FBuxjt7J8UyAc6hhukWSH2RR9_OPZ9Qf5Ui09RL9O_n3q217WEYzqqYpdnQYEr" />
   </a>
   <a href="https://www.hackerrank.com/ayushrai15">
-    <img align="left" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
+    <img align="centre" alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />
    </a>
   <a href="https://auth.geeksforgeeks.org/user/imposter22/practice/">
-    <img align="left" alt="GFG" width="40px" src="https://user-images.githubusercontent.com/70145826/131970745-8b6ac6e9-23ab-4920-9748-82b21f7e2f16.png" />
+    <img align="centre" alt="GFG" width="40px" src="https://user-images.githubusercontent.com/70145826/131970745-8b6ac6e9-23ab-4920-9748-82b21f7e2f16.png" />
    </a>
-  
+ 
 <br>
 
------------------------------------------------------
 
-- 🔭 I’m currently working on ... :  Algorithms
-- 🌱 I’m currently learning ... :  Trees & Graphs
-- 👯 I’m looking to collaborate on ... :  OpenCV
+-----------------------------------------------------
+- 🔭 I’m currently working on ... :  Google Colab
+- 🌱 I’m currently learning ... :  Computer Vision
 - 💬 Ask me about ... :  Machine Learning / Deep Learning
 - 😄 Pronouns: ... :  He/Him
 - ⚡ Fun fact: ... :  " Software undergoes beta testing shortly before it's released, whereas beta in Latin means //'still doesn't work'// "
-
-
 <br><br><br><br>
-
 # THAT'S ME !!!
 
 ⭐️ From [15Ayush](https://github.com/15Ayush)
