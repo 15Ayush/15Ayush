@@ -15,7 +15,7 @@
 
 - <img src="https://media.giphy.com/media/lKvZmLmHNaI80/giphy.gif" width=50 height=50>  I have built some projects and planning to complete 2 more minor projects by the end of the month.<br>
 
----------------------------------------------------
+---
 
 
 ## My Tech Stack
@@ -40,7 +40,18 @@
   </tbody>
 </table>
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Ayush)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=15Ayush&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Ayush&layout=demo&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=15Ayush&theme=merko)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+
+
 
 <br>
 
@@ -67,6 +78,8 @@
 - 😄 Pronouns: ... :  He/Him
 - ⚡ Fun fact: ... :  " Software undergoes beta testing shortly before it's released, whereas beta in Latin means //'still doesn't work'// "
 <br><br><br><br>
-# THAT'S ME !!!
 
-⭐️ From [15Ayush](https://github.com/15Ayush)
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
