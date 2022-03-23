@@ -1,22 +1,8 @@
-# 👋🏻 Hey, I am Ayush Rai
-<div align="center">
-	<br>
-	<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="200" height="200">
-</div>
+# 👋🏻 Hey there!
 
-## I am a programmer . <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width=90 height=90> 
-## I am a Data Science avid . <img src="https://media.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif" width=90 height=90> 
-
-- <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>  I love to code in Java . 
-
-- I also code in Python . I have experience in Flask-RESTful framework and also have a keen interest towards ML and AI. <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width=50 height=50><br>
-
--  I like working with TensorFlow too !! <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width=50 height=50>  <br>
-
-- <img src="https://media.giphy.com/media/lKvZmLmHNaI80/giphy.gif" width=50 height=50>  I have built some projects and planning to complete 2 more minor projects by the end of the month.<br>
+<img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" height="200" wifdth="200">
 
 ---
-
 
 ## My Tech Stack
 
@@ -47,11 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=15Ayush&layout=demo&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=15Ayush&theme=merko)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-
-
+---
 
 <br>
 
@@ -70,16 +52,14 @@
  
 <br>
 
-
------------------------------------------------------
+---
 - 🔭 I’m currently working on ... :  Google Colab
 - 🌱 I’m currently learning ... :  Computer Vision
 - 💬 Ask me about ... :  Machine Learning / Deep Learning
 - 😄 Pronouns: ... :  He/Him
 - ⚡ Fun fact: ... :  " Software undergoes beta testing shortly before it's released, whereas beta in Latin means //'still doesn't work'// "
 <br><br><br><br>
-
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
